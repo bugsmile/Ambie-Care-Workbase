@@ -3,7 +3,7 @@ title: 앰비언트 케어 (Ambient Care)
 type: concept
 tags: [앰비언트, 케어, 비접촉, 시장정의, 공간]
 source_count: 3
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 앰비언트 케어 (Ambient Care)

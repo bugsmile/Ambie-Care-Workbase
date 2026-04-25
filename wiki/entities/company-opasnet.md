@@ -3,7 +3,7 @@ title: 경쟁사 — 오파스넷 (Opasnet)
 type: entity
 tags: [경쟁사, B2G, 공공, 코스닥, 통신망]
 source_count: 2
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 오파스넷 (Opasnet)

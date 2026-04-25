@@ -3,7 +3,7 @@ title: 페르소나 — 박지수 (Core)
 type: entity
 tags: [페르소나, core, B2C, 보호자, 구독]
 source_count: 3
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 박지수 (43세) — Core 페르소나

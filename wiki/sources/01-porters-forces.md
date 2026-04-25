@@ -3,12 +3,12 @@ title: Porter's Five Forces 분석 — 비접촉 앰비언트 케어 시장
 type: source
 tags: [시장분석, 경쟁, porter, 전략]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # Porter's Five Forces — 비접촉 앰비언트 케어 모니터링 시장
 
-> 원본: `raw/assets/1.porters-forces.md`
+> 원본: `raw/1.porters-forces.md`
 
 ## 핵심 결론
 

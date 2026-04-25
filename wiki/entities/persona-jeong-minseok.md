@@ -3,7 +3,7 @@ title: 페르소나 — 정민석 (Adjacent)
 type: entity
 tags: [페르소나, adjacent, B2G, 지자체, 조달]
 source_count: 2
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 정민석 (46세) — Adjacent 페르소나

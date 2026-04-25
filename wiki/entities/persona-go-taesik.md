@@ -3,7 +3,7 @@ title: 페르소나 — 고태식 (Non-user)
 type: entity
 tags: [페르소나, non-user, 거부, 노인낙인, 전환조건]
 source_count: 2
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 고태식 (71세) — Non-user 페르소나

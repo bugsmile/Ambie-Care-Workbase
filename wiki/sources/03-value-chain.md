@@ -3,12 +3,12 @@ title: 가치사슬 분석 — 케어벨 벤치마킹
 type: source
 tags: [가치사슬, 벤치마킹, 케어벨, 전략]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 가치사슬 분석 — 케어벨(Carebell) 벤치마킹
 
-> 원본: `raw/assets/3.value-chain.md`
+> 원본: `raw/3.value-chain.md`
 
 ## 핵심 전략 인사이트 3가지
 

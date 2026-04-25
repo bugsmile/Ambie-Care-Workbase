@@ -3,7 +3,7 @@ title: Zero-Friction — 완전 비접촉 UX
 type: concept
 tags: [Zero-Friction, UX, 비접촉, 어르신, 설치]
 source_count: 5
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # Zero-Friction — 완전 비접촉 UX

@@ -3,12 +3,12 @@ title: 고객 여정지도 (CJM) — 박지수 Core 페르소나
 type: source
 tags: [CJM, 고객여정, 페인포인트, UX]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 고객 여정지도 (CJM)
 
-> 원본: `raw/assets/8.customer-journey-map.md`
+> 원본: `raw/8.customer-journey-map.md`
 
 ## Core 페르소나 박지수 — 5단계 여정
 

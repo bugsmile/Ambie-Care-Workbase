@@ -3,7 +3,7 @@ title: 경쟁사 — 비알랩 (BRlab)
 type: entity
 tags: [경쟁사, 슬립테크, 수면, 딥러닝, 서울대]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 비알랩 (BRlab)

@@ -3,12 +3,12 @@ title: Value Proposition Sheet — Rooted v2
 type: source
 tags: [VPS, MVP, GTM, 가치제안, 전략]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # Value Proposition Sheet (VPS) — Rooted v2
 
-> 원본: `raw/assets/07.value-proposition-sheet_Rooted_v2.md`  
+> 원본: `raw/07.value-proposition-sheet_Rooted_v2.md`  
 > 작성일: 2026-04-12  
 > 모든 리서치(1~10번 문서)를 통합한 종합 가치 제안 및 MVP 계획서
 

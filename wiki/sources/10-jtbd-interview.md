@@ -3,12 +3,12 @@ title: JTBD 심층 인터뷰 결과 요약
 type: source
 tags: [JTBD, 인터뷰, VoC, 페인포인트, 고객검증]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # JTBD 심층 인터뷰 결과
 
-> 원본: `raw/assets/10.jtbd-interview-report.md`
+> 원본: `raw/10.jtbd-interview-report.md`
 
 ---
 

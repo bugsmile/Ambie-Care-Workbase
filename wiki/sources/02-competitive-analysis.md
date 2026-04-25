@@ -3,12 +3,12 @@ title: 경쟁사 심층 분석 — 비접촉 앰비언트 케어 5개사
 type: source
 tags: [경쟁, 시장분석, 벤치마킹]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 경쟁사 심층 분석 (5개사)
 
-> 원본: `raw/assets/2.competents-analysis.md`
+> 원본: `raw/2.competents-analysis.md`
 
 ## 핵심 메시지
 

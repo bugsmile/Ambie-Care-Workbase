@@ -3,12 +3,12 @@ title: 페르소나 스펙트럼 맵 + 심층 재기술
 type: source
 tags: [페르소나, 사용자연구, CJM, 스펙트럼]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 페르소나 스펙트럼 맵
 
-> 원본: `raw/assets/7.persona-spectrum-map.md`
+> 원본: `raw/7.persona-spectrum-map.md`
 
 ---
 

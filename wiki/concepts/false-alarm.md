@@ -3,7 +3,7 @@ title: 오탐률 (False Alarm) — 핵심 설계 과제
 type: concept
 tags: [오탐, AI필터링, KSF, 최우선과제, 알람피로]
 source_count: 7
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 오탐률 (False Alarm)

@@ -3,7 +3,7 @@ title: EMR 연동 — B2B Lock-in 전략
 type: concept
 tags: [EMR, B2B, Webhook, Lock-in, 관제, 대시보드]
 source_count: 3
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # EMR 연동
@@ -49,6 +49,8 @@ B2B 요양시설의 구조적 고통:
 - As-Is: 수기 + 시스템 이중 입력
 - To-Be: **EMR 자동 연동으로 이중 기록 0건** (AC-3.2)
 
+> ⚠️ 모순: PRD와 AOS/DOS에서는 EMR 연동이 Must/Q1 핵심 성장 동력이다. 그러나 SRS v3.0은 벤더 제휴 미체결과 HMAC 구현 난이도 때문에 MVP에서 Wave 2로 연기했다. 현재 실행 기준은 "Phase 1 독립형 B2B 대시보드, EMR은 Wave 2"이다.
+
 ### Lock-in 효과
 케어벨 벤치마킹: 한번 병원 전산망과 결합되면 **교체하기가 거의 불가능**  
 → 계약 유지율 극대화 + 초기 도입이 곧 영구 수주
@@ -86,6 +88,7 @@ B2B 요양시설의 구조적 고통:
 - [SRS v3.0 §1.2 Wave 2 이관](../sources/13-srs-v03.md)
 - [KSF 보고서](../sources/04-ksfs.md)
 - [가치사슬 분석 (케어벨)](../sources/03-value-chain.md)
+- [MVP v3.0 범위](mvp-v3-scope.md)
 
 ## 연관 엔티티
 - [케어벨 (Lock-in 전략 벤치마킹)](../entities/company-carebell.md)

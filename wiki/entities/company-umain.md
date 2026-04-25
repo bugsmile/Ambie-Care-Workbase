@@ -3,7 +3,7 @@ title: 경쟁사 — 유메인 (Umain)
 type: entity
 tags: [경쟁사, UWB, 원천기술, 칩셋, B2B부품]
 source_count: 2
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 유메인 (Umain)

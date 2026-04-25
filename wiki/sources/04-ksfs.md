@@ -3,12 +3,12 @@ title: KSF — 핵심 성공 요인 Top 5
 type: source
 tags: [KSF, 전략, 시장진입]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 핵심 성공 요인 (KSF) Top 5
 
-> 원본: `raw/assets/4.KSFs-report.md`  
+> 원본: `raw/4.KSFs-report.md`  
 > 도출 근거: Porter's Five Forces + 가치사슬 분석
 
 ---

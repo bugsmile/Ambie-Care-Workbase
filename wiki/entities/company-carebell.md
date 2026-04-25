@@ -3,7 +3,7 @@ title: 경쟁사 — 케어벨 (Carebell)
 type: entity
 tags: [경쟁사, B2B, 프리미엄, UWB, 관제]
 source_count: 3
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 케어벨 (Carebell)

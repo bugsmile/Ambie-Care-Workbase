@@ -3,7 +3,7 @@ title: 공간 맥락 지표 Moat — 웨어러블 위협 방어 해자
 type: concept
 tags: [Moat, 공간분석, 차별화, KSF, 웨어러블방어]
 source_count: 4
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 공간 맥락 지표 Moat

@@ -3,12 +3,12 @@ title: AOS/DOS 기회점수 매트릭스
 type: source
 tags: [AOS, DOS, 기회점수, 우선순위, MVP]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # AOS/DOS 기회점수 매트릭스
 
-> 원본: `raw/assets/9.aos-dos-analysis.md`
+> 원본: `raw/9.aos-dos-analysis.md`
 
 ---
 
@@ -48,6 +48,17 @@ last_updated: 2026-04-23
 
 ---
 
+## 12명 페르소나 엔티티 맵
+
+| 유형 | 페르소나 |
+|---|---|
+| Core | [박지수](../entities/persona-park-jisu.md), [이현우](../entities/persona-lee-hyunwoo.md), [김정숙](../entities/persona-kim-jeongsuk.md), [오성진](../entities/persona-oh-seongjin.md), [한미영](../entities/persona-han-miyoung.md) |
+| Adjacent | [정민석](../entities/persona-jeong-minseok.md), [배수진](../entities/persona-bae-sujin.md), [윤태현](../entities/persona-yoon-taehyun.md) |
+| Extreme | [장영희](../entities/persona-jang-younghee.md), [최봉수](../entities/persona-choi-bongsu.md) |
+| Non-user | [고태식](../entities/persona-go-taesik.md), [서미경](../entities/persona-seo-migyeong.md) |
+
+---
+
 ## 개발 로드맵 (AOS 기반)
 
 ```
@@ -74,3 +85,4 @@ Phase 3 (12~18개월) — 시장 확장
 - [PRD](12-prd.md)
 - [오탐률 개념](../concepts/false-alarm.md)
 - [Zero-Friction 개념](../concepts/zero-friction.md)
+- [시장 세그먼트](../concepts/market-segments.md)

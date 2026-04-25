@@ -3,7 +3,7 @@ title: UWB 레이더 — 핵심 센싱 기술
 type: concept
 tags: [UWB, 레이더, 기술, HW, 센서]
 source_count: 4
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # UWB 레이더 (Ultra-Wideband Radar)

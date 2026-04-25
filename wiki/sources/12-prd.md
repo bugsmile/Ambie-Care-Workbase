@@ -3,12 +3,12 @@ title: PRD v0.3 — Rooted 비접촉 AI 앰비언트 홈 안전 솔루션
 type: source
 tags: [PRD, 요구사항, 기능, 비기능, MVP, 리스크]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # PRD v0.3 — Rooted
 
-> 원본: `raw/assets/PRD_V1.md` (최종 업데이트: 2026-04-18)
+> 원본: `raw/PRD_V1.md` (최종 업데이트: 2026-04-18)
 
 ---
 

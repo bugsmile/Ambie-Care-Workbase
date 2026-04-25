@@ -3,12 +3,12 @@ title: TAM-SAM-SOM + 시장 세그먼트 분석
 type: source
 tags: [시장규모, TAM, SAM, SOM, 세그먼트]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # TAM-SAM-SOM + 시장 세그먼트 분석
 
-> 원본: `raw/assets/6.TAM-SAM-SOM+MarketSegment.md`
+> 원본: `raw/6.TAM-SAM-SOM+MarketSegment.md`
 
 ---
 

@@ -3,7 +3,7 @@ title: 페르소나 — 장영희 (Extreme)
 type: entity
 tags: [페르소나, extreme, 낙상, 소송, 요양원, 법적증거]
 source_count: 2
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 장영희 (63세) — Extreme 페르소나

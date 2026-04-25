@@ -1,3 +1,11 @@
+---
+title: Wiki 운영 로그
+type: log
+tags: [log, operations]
+source_count: 13
+last_updated: 2026-04-25
+---
+
 # Wiki 운영 로그
 
 > 형식: `## [YYYY-MM-DD] 작업유형 | 내용`  
@@ -7,7 +15,7 @@
 
 ## [2026-04-23] build | 위키 초기 구축
 
-**작업 내용:** `raw/assets/` 내 12개 원시 소스 전체를 처리하여 위키 초기 구조를 구축했습니다.
+**작업 내용:** `raw/` 내 12개 원시 소스 전체를 처리하여 위키 초기 구조를 구축했습니다.
 
 **처리된 소스:**
 1. `1.porters-forces.md` → `sources/01-porters-forces.md`
@@ -87,7 +95,7 @@
 
 ## [2026-04-23] ingest | SRS_V03(KOR_OPUS).md — SRS v3.0 바이브 코딩 MVP 최적화
 
-**처리 소스:** `raw/assets/SRS_V03(KOR_OPUS).md` (1,532줄)
+**처리 소스:** `raw/SRS_V03(KOR_OPUS).md` (1,532줄)
 
 **생성 페이지:**
 - `sources/13-srs-v03.md` — SRS v3.0 전체 요약
@@ -112,3 +120,37 @@
 - sources/: **13개** ✅ (모든 원시 소스 처리 완료)
 - entities/: 9개 ✅
 - concepts/: 8개 ✅
+
+---
+
+## [2026-04-25] build | raw 기반 지식베이스 현재화 및 확장
+
+**작업 내용:** `llm-wiki.md`의 지속형 위키 설계 방식에 맞춰 `raw/`의 현재 13개 소스를 기준으로 위키를 점검하고 확장했습니다.
+
+**정리 사항:**
+- 기존 페이지의 원본 경로 표기를 `raw/assets/`에서 실제 경로인 `raw/`로 수정
+- 전체 위키 페이지의 `last_updated`를 2026-04-25로 갱신
+- `index.md`를 현재 지식베이스 카탈로그로 재작성
+- `log.md`에 YAML 프런트매터 추가
+
+**신규 엔티티 페이지:** AOS/DOS의 12명 페르소나 중 누락된 8명을 추가했습니다.
+- `entities/persona-lee-hyunwoo.md`
+- `entities/persona-kim-jeongsuk.md`
+- `entities/persona-oh-seongjin.md`
+- `entities/persona-han-miyoung.md`
+- `entities/persona-bae-sujin.md`
+- `entities/persona-yoon-taehyun.md`
+- `entities/persona-choi-bongsu.md`
+- `entities/persona-seo-migyeong.md`
+
+**신규 컨셉 페이지:**
+- `concepts/mvp-v3-scope.md` — SRS v3.0 기준 무료 티어 MVP 범위
+- `concepts/data-retention.md` — PRD 90일 요구와 SRS 30일 MVP 결정의 차이
+- `concepts/market-segments.md` — SOM S1~S4와 GTM Wave 연결
+- `concepts/regulatory-language.md` — 규제·언어 가드레일
+
+**현재 위키 상태:**
+- sources/: **13개**
+- entities/: **17개** (페르소나 12개 + 경쟁사 5개)
+- concepts/: **12개**
+- index.md / log.md 갱신 완료

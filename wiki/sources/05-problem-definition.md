@@ -3,12 +3,12 @@ title: 다관점 문제 정의서 — B2B/B2G/B2C
 type: source
 tags: [문제정의, B2B, B2G, B2C, 페인포인트]
 source_count: 1
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 다관점 문제 정의서
 
-> 원본: `raw/assets/5.Problem-definition.md`  
+> 원본: `raw/5.Problem-definition.md`  
 > 3개 관점(B2B 요양시설, B2G 지자체, B2C 보호자)에서 구조적 미충족(Unmet Need) 상태를 정의
 
 ---

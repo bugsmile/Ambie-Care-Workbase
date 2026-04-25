@@ -3,7 +3,7 @@ title: 경쟁사 — 아카라라이프 (Aqara Life)
 type: entity
 tags: [경쟁사, AIoT, 스마트홈, 건설사, 생태계]
 source_count: 2
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 ---
 
 # 아카라라이프 (Aqara Life)
