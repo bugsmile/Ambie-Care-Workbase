@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/concepts/daily-report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "daily-report"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3282b7438ad2bd2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198598c30639f49b",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
             }
           }
         ]
@@ -186,6 +202,10 @@
   },
   "active": "f1dd3e47265d7fde",
   "lastOpenFiles": [
+    "wiki/concepts/ambient-care.md",
+    "llm-wiki.md",
+    "wiki/index.html",
+    "wiki/index.md",
     "wiki/concepts/regulatory-language.md",
     "wiki/concepts/market-segments.md",
     "wiki/concepts/data-retention.md",
@@ -200,7 +220,6 @@
     "wiki/entities/persona-lee-hyunwoo.md",
     "CLAUDE.md",
     "llm-wiki.ko.md",
-    "llm-wiki.md",
     "wiki/entities/persona-park-jisu.md",
     "wiki/entities/persona-jeong-minseok.md",
     "wiki/entities/persona-jang-younghee.md",
@@ -209,8 +228,6 @@
     "wiki/entities/company-opasnet.md",
     "wiki/entities/company-carebell.md",
     "wiki/entities/company-brlab.md",
-    "wiki/entities/company-aqaralife.md",
-    "wiki/concepts/zero-friction.md",
-    "wiki/concepts/uwb-radar.md"
+    "wiki/entities/company-aqaralife.md"
   ]
 }
