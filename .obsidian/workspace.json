@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/daily-report.md",
+                "file": "Rooted_Recruiting_Deck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily-report"
+              "title": "Rooted_Recruiting_Deck"
             }
           }
         ]
       },
       {
-        "id": "3282b7438ad2bd2e",
+        "id": "d279fd921ef68836",
         "type": "tabs",
         "children": [
           {
-            "id": "198598c30639f49b",
+            "id": "6342667cc3eb4ce7",
             "type": "leaf",
             "state": {
               "type": "marp-preview-view",
@@ -200,8 +200,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "f1dd3e47265d7fde",
+  "active": "6342667cc3eb4ce7",
   "lastOpenFiles": [
+    "wiki/concepts/daily-report.md",
+    "Rooted_Recruiting_Deck.md",
     "wiki/concepts/ambient-care.md",
     "llm-wiki.md",
     "wiki/index.html",
@@ -226,8 +228,6 @@
     "wiki/entities/persona-go-taesik.md",
     "wiki/entities/company-umain.md",
     "wiki/entities/company-opasnet.md",
-    "wiki/entities/company-carebell.md",
-    "wiki/entities/company-brlab.md",
-    "wiki/entities/company-aqaralife.md"
+    "wiki/entities/company-carebell.md"
   ]
 }
